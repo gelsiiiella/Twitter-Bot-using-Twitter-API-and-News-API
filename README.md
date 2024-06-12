@@ -3,8 +3,26 @@
 	<p>A twitter bot that posts tweets using News API.</p>
 </div>
 <div align="justify">
-  <p>
-  </p>
+<p>What it can do:</p>
+<ul>
+	<li>Fetch tech news from News API</li>
+	<li>Post the fetched news to twitter bot account</li>
+</ul>
+<p>Future Improvements:</p>
+<ul>
+	<li>Schedule tweets.</li>
+	<li>News sentimental analysis.</li>
+	<li>User Interface Dashboard of tweet activities</li>
+</ul>
 
- <br>
-  📫 How to reach me: samboaangelag@gmail.com
+<p>How to run this:</p>
+<ol>
+	<li>Create a twitter developer account.</li>
+	<li>Create NEWS API account.</li>
+	<li>Generate Keys. </li>
+	<li>Put the keys on .env file</li>
+	<li>Test the code.</li>
+</ol>
+
+
+
