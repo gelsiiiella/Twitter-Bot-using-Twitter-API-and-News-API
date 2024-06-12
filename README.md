@@ -2,9 +2,6 @@
   <h2>CipherBot</h2>
 	<p>A twitter bot that posts tweets using News API.</p>
 </div>
-<div align="center">
-  <img src="
-</div>
 <div align="justify">
   <h3>About CipherBot</h3>
   <p>CipherBot is a Twitter bot designed to fetch and post tech news from News API. The bot aims to provide users with the latest news and updates in the tech industry, making it a valuable resource for those interested in staying informed.</p>
